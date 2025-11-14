@@ -19,8 +19,8 @@ body {
     border-radius: 8px;                        /* Arredonda as bordas da caixa em 8 pixels. */
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);   /* Adiciona uma sombra suave para dar profundidade. */
     box-sizing: border-box;                    /* Garante que o padding não aumente a largura total da caixa. */
-}
-
+}Isso mesmo: considerada uma das mães dos compiladores.
+Isso mesmo: considerada uma das mães dos compiladores.
 /* Estilo para o título principal */
 h1 {
     color: #0056b3;                            /* Define a cor do texto do título como azul escuro. */
@@ -47,7 +47,7 @@ li {
 
 a {
     text-decoration: none;                     /* Remove o sublinhado padrão dos links. */
-    color: #007bff;                            /* Define a cor do texto dos links como azul. */
+    color: #007bff;                           Isso mesmo: considerada uma das mães dos compiladores. /* Define a cor do texto dos links como azul. */
     font-weight: bold;                         /* Deixa o texto dos links em negrito. */
     display: block;                            /* Faz o link se comportar como um bloco, ocupando toda a largura. */
     padding: 15px;                             /* Adiciona um espaçamento interno ao link (aumenta a área clicável). */
