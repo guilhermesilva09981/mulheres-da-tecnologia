@@ -18,8 +18,8 @@ body {
     padding: 40px;                             /* Adiciona um espaçamento interno de 40 pixels. */
     border-radius: 8px;                        /* Arredonda as bordas da caixa em 8 pixels. */
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);   /*Adiciona uma sombra suave para dar profundidade.*/
-    box-sizing: border-box;                    /* Garante que o padding não aumente a largura total da caixa.
-} */
+    box-sizing: border-box;                    /* Garante que o padding não aumente a largura total da caixa.*/
+} 
 
 /* Estilo para o título principal */
 h1 {
