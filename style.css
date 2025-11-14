@@ -93,8 +93,8 @@ img {
 
 #principal {
     background-color: #ffffff;                 /* Define um fundo branco para a "caixa" de conteúdo. */
-    width: 100%;                               /* Faz a caixa ocupar 100% da largura disponível. */
-    max-width: 800px;                          Define a largura máxima da caixa para 800 pixels.
+   /* width: 100%;                               /* Faz a caixa ocupar 100% da largura disponível. */
+  /*  max-width: 800px;                          /* Define a largura máxima da caixa para 800 pixels. */
     padding: 5px;                             /* Adiciona um espaçamento interno de 40 pixels. */
     border-radius: 5px;                        /* Arredonda as bordas da caixa em 8 pixels. */
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);   /*Adiciona uma sombra suave para dar profundidade.*/
