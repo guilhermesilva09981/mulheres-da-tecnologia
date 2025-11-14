@@ -78,32 +78,3 @@ img {
     /* Você pode adicionar estilos específicos para uma imagem no index aqui. */
 }
 
-
-@media (max-width: 768px){
-    body {
-    font-family: Arial, Helvetica, sans-serif; /* Define a família da fonte para todo o texto da página. */
-    background-color: #f4f4f9;                 /* Define uma cor de fundo cinza bem clara para a página. */
-    color: #333;                               /* Define a cor padrão do texto como um cinza escuro. */
-    display:block ;                             /*Ativa o modo "flexbox" para o corpo, que facilita o alinhamento. */
-    justify-content: center;                   /* Centraliza o conteúdo horizontalmente na página. */
-   /* align-items: center;                       Centraliza o conteúdo verticalmente na página.*/
-    padding: 20px;                             /* Adiciona um espaçamento de 20 pixels em todos os lados do corpo. */
-    margin: 0;                                 /* Remove a margem padrão do navegador. */
-}
-
-#principal {
-    background-color: #ffffff;                 /* Define um fundo branco para a "caixa" de conteúdo. */
-   /* width: 100%;                               /* Faz a caixa ocupar 100% da largura disponível. */
-  /*  max-width: 800px;                          /* Define a largura máxima da caixa para 800 pixels. */
-    padding: 5px;                             /* Adiciona um espaçamento interno de 40 pixels. */
-    border-radius: 5px;                        /* Arredonda as bordas da caixa em 8 pixels. */
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);   /*Adiciona uma sombra suave para dar profundidade.*/
-    box-sizing: border-box;                    /* Garante que o padding não aumente a largura total da caixa.*/
-} 
-
-
-
-
-
-
-}
